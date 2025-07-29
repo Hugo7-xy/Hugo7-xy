@@ -1,7 +1,7 @@
 # 👋 Hello, I'm HG
 
-🎮 **Programador & Competidor de Free Fire**  
-📱 **Android Reverse Engineer** | ADB • Replays • Bots  
+🎮 **Programador**  
+📱 **Android Reverse Engineer** | ADB • Analista • Bots  
 ⚙️ **Automatizando processos e quebrando limites técnicos**
 
 ---
