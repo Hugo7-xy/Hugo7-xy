@@ -12,8 +12,8 @@
 ![ADB](https://img.shields.io/badge/ADB-000000?style=for-the-badge&logo=android&logoColor=green)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3c3c3c?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![ScreenShare](https://img.shields.io/badge/ScreemShare-Modding-orange?style=for-the-badge)
+![HTML](https://img.shields.io/badge/html-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![ScreenShare](https://img.shields.io/badge/ScreenShare-Modding-orange?style=for-the-badge)
 
 ---
 
