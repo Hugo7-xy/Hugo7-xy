@@ -19,9 +19,9 @@
 
 ## 🚀 Projetos em Destaque
 
-- 🔒 **Sistema de Blacklist** – Acesso restrito via KeyAuth + banco MongoDB  
+- 🔒 **Sistema de Blacklist** – Acesso restrito via Key + banco de dados
 - 🤖 **Bot de Fila para Discord** – Sistema de partidas automáticas com canais dinâmicos  
-- 🤝 **Colaborador no [Scanner Android](https://github.com/KellerSS)** – Projeto de análise e proteção de apps Android
+- 🤝 **Colaborador no [Scanner Android](https://github.com/kellerzz)** – Projeto de análise e proteção de apps Android
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-> 🧠 _"Sempre aprendendo, automatizando o impossível e otimizando até os milissegundos."_  
+> 🧠 _"Sempre aprendendo, automatizando o impossível e otimizando tudo"_  
 > 💬 Me chama no Discord pra conversar sobre bots, jogos ou automações!
 
 ---
