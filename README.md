@@ -9,20 +9,19 @@
 ## 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ADB](https://img.shields.io/badge/ADB-000000?style=for-the-badge&logo=android&logoColor=green)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3c3c3c?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ScreenShare](https://img.shields.io/badge/ScreenShare-Automation-blueviolet?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/html-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![ScreenShare](https://img.shields.io/badge/ScreenShare-Modding-orange?style=for-the-badge)
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-- 🎯 **Replay Organizer para Free Fire** – Interface moderna + automação ADB
-- 📲 **Emulador Manager** – Gerencie replays, pastas e data de arquivos
-- 🤖 **Bot de Fila para Discord** – Sistema de partidas automáticas com canais dinâmicos
-- 🔒 **Sistema de Blacklist** – Acesso restrito via KeyAuth + banco MongoDB
+- 🔒 **Sistema de Blacklist** – Acesso restrito via KeyAuth + banco MongoDB  
+- 🤖 **Bot de Fila para Discord** – Sistema de partidas automáticas com canais dinâmicos  
+- 🤝 **Colaborador no [Scanner Android](https://github.com/KellerSS)** – Projeto de análise e proteção de apps Android
 
 ---
 
@@ -39,4 +38,3 @@
 > 💬 Me chama no Discord pra conversar sobre bots, jogos ou automações!
 
 ---
-
