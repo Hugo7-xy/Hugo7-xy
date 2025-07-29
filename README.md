@@ -13,7 +13,7 @@
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3c3c3c?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Free Fire](https://img.shields.io/badge/FreeFire-Modding-orange?style=for-the-badge)
+![ScreenShare](https://img.shields.io/badge/ScreemShare-Modding-orange?style=for-the-badge)
 
 ---
 
