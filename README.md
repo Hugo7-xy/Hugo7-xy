@@ -2,6 +2,7 @@
 
 🎮 **Programador**  
 📱 **Android Reverse Engineer** | ADB • Analista • Bots  
+🎓 **Graduando em Ciência da Computação na UNIFACS – 4º/8 períodos**  
 ⚙️ **Automatizando processos e quebrando limites técnicos**
 
 ---
@@ -19,7 +20,7 @@
 
 ## 🚀 Projetos em Destaque
 
-- 🔒 **Sistema de Blacklist** – Acesso restrito via Key + banco de dados
+- 🔒 **Sistema de Blacklist** – Acesso restrito via Key + banco de dados  
 - 🤖 **Bot de Fila para Discord** – Sistema de partidas automáticas com canais dinâmicos  
 - 🤝 **Colaborador no [Scanner Android](https://github.com/kellerzz)** – Projeto de análise e proteção de apps Android
 
