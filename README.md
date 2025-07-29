@@ -22,7 +22,7 @@
 
 - 🔒 **Sistema de Blacklist** – Acesso restrito via Key + banco de dados  
 - 🤖 **Bot de Fila para Discord** – Sistema de partidas automáticas com canais dinâmicos  
-- 🤝 **Colaborador no [Scanner Android](https://github.com/kellerzz)** – Projeto de análise e proteção de apps Android
+- 🤝 **Colaborador no [Scanner Android](https://github.com/kellerzz/KellerSS-Android)** – Projeto de análise e proteção de apps Android
 
 ---
 
